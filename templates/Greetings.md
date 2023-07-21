@@ -22,14 +22,14 @@
 POWHacks 해커톤은 기술을 활용하여 지역사회 문제 및 현안 해결을 하고 싶은 개인(접수 후 4인 1팀으로 자유 팀빌딩)  
 
 - 빌딩기간 : 2023. 7. 20(목) ~ 2023. 8. 11(금)
-- 빌딩방식 : [본 행사 전용 Discord](https://discord.gg/v6mnfPmR) 소통채널을 활용한 자율적 팀빌딩 진행
+- 빌딩방식 : [POWHacks Discord](https://discord.gg/sU32AxrFef) 소통채널을 활용한 자율적 팀빌딩 진행
 
 ### 사전 팀빌딩 이벤트
 
 본 행사 전부터 사전 팀빌딩을 진행할 수 있습니다.
 
-- 팀장으로 리딩하고 싶으시다면 [디스코드 "자유팀빌딩" 채널](https://discord.gg/v6mnfPmR)을 통해 주제 포스트를 올리고, 원하는 직무의 팀원을 구하시면 됩니다.
-- 팀원으로 팔로잉하고 싶으시다면 [디스코드 직무별 채널](https://discord.gg/v6mnfPmR)을 통해 자기 소개와 직무를 작성하고 원하는 주제 포스트에 댓글을 작성하시면 됩니다.
+- 팀장으로 리딩하고 싶으시다면 [디스코드 "자유팀빌딩" 채널](https://discord.gg/sU32AxrFef)을 통해 주제 포스트를 올리고, 원하는 직무의 팀원을 구하시면 됩니다.
+- 팀원으로 팔로잉하고 싶으시다면 [디스코드 직무별 채널](https://discord.gg/sU32AxrFef)을 통해 자기 소개와 직무를 작성하고 원하는 주제 포스트에 댓글을 작성하시면 됩니다.
 
   ![모집 중인 팀 예시](https://github.com/microsoft/hackers-ground/blob/main/assets/discord_team_recruiting_end.jpg?raw=true)
 
@@ -70,4 +70,4 @@ POWHacks 본 행사 전 아이디어 기획서를 제출합니다. 팀빌딩 후
 
 ## QnA
 
-궁금하신 내용이 있으시면 [Discord 소통채널](https://discord.gg/v6mnfPmR)로 질문하시면 됩니다!
+궁금하신 내용이 있으시면 [POWHacks Discord](https://discord.gg/sU32AxrFef)로 질문하시면 됩니다!
